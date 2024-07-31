@@ -34,7 +34,7 @@ Follow the on-screen instructions to input startup ideas and view predictions.
 
 -requirements.txt: Lists the required Python packages.
 
--data/: Contains dataset files.The `data/` directory contains dataset files used in this project: `startup_ideas.csv`: Contains startup ideas and their outcomes.
+-data/: Contains dataset files.The `data/` directory contains dataset files used in this project. `startup_ideas.csv`: Contains startup ideas and their outcomes.
 
 -notebooks/: Includes Jupyter notebooks for exploration and analysis.
 
